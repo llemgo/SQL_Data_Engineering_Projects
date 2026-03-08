@@ -13,7 +13,7 @@ A SQL project analyzing the data engineer job market using real world job postin
 - ✅ **Outcomes:** Delivered **actionable insights** on SQL/Python dominance, cloud trends, and salary patterns
 
 If you want, you can review the codes directly:  
-[Top Demanded Skills Query](\01_top_demanded_skills.sql) - demand analysis with multi-table joins 
+[Top Demanded Skills Query](/01_top_demanded_skills.sql) - demand analysis with multi-table joins 
 
 [Top Paying Skills Query](./02_top_paying_skills.sql) - salary analysis with aggregations
 
